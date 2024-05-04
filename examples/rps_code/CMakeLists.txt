@@ -9,4 +9,4 @@ file(COPY ${CMAKE_CURRENT_SOURCE_DIR}/cmake/CMakeLists.txt
 set(EXTRA_COMPONENT_DIRS ../../components)
 add_compile_options(-fdiagnostics-color=always )
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
-project(mobilenetv2_classification_demo)
+project(rps_code)
